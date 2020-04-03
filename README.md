@@ -127,7 +127,7 @@ live2d:
   tagMode: false # 标签模式, 是否仅替换 live2d tag标签而非插入到所有页面中
   debug: false # 调试, 是否在控制台输出日志
   model:
-    use: live2d-widget-model-hibiki
+    use: https://api.test404.club/v3/live2d/get/?id=1-53
     # use: live2d-widget-model-wanko # npm-module package name
     # use: wanko # 博客根目录/live2d_models/ 下的目录名
     # use: ./wives/wanko # 相对于博客根目录的路径
