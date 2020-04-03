@@ -1,11 +1,15 @@
+![live2d](https://cdn.test404.club/images/2020/04/03/QQ20200403140510.png)
 ## 给自己网站加一个可爱的live2d
 ### 开始
 需要一台计算机,和一双手,就可以开始了(我再说什么？)
 ### 不多废话进入主题
-我提供了一个较大的模型库[GETHUB](https://api.test404.club/v3/live2d/?target=_blanck)
+我提供了一个较大的模型库
+ [GETHUB](https://api.test404.club/v3/live2d/?target=_blanck)
 ### html
-我提供了一个 `demo` html
-[Github]()
+我提供了一个 `demo` html 
+
+[Github](https://github.com/a1475775412/live2d)
+
 配置文件
 ``` JavaScript
 function loadModel(modelId, modelTexturesId){
@@ -140,7 +144,9 @@ live2d:
     opacityOnHover: 0.8
 ```
 ## 接口
-我有新模型时将更新本接口(本接口为二开 原作者 [猫与向日葵]())
+我有新模型时将更新本接口(本接口为二开 原作者 
+[猫与向日葵]())
+
 [API](https://api.test404.club/v3/live2d/)
 
-[博客](https://blog.test404.club)
+[Test小林Blog](https://blog.test404.club)
